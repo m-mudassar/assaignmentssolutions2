@@ -1,3 +1,6 @@
+// Write a program to calculate cpga of a student 
+// if marks of a subject are given as input.
+// Assueme that there are 5 subjects.
 public class solution11 {
     public static void main(String[] args) {
         int creditHour = 3;
